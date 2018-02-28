@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group_one"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/action_invite"
+            android:icon="@drawable/ic_share"
+            android:title="@string/action_invite" />
+        <item
+            android:id="@+id/action_rate"
+            android:icon="@drawable/ic_rate"
+            android:title="@string/about_rate" />
+    </group>
+    <group
+        android:id="@+id/group_two"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/action_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/action_settings" />
+
+        <item
+            android:id="@+id/action_about"
+            android:icon="@drawable/ic_help"
+            android:title="@string/action_about" />
+    </group>
+    <group
+        android:id="@+id/group_three"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/action_feedback"
+            android:icon="@drawable/ic_feedback"
+            android:title="@string/about_feedback" />
+        <item
+            android:id="@+id/action_view_more"
+            android:icon="@drawable/ic_view_more"
+            android:title="@string/action_view_more" />
+    </group>
+    <!--<item-->
+    <!--android:id="@+id/about_pro"-->
+    <!--android:icon="@drawable/ic_donate"-->
+    <!--android:title="@string/about_support" />-->
+</menu>

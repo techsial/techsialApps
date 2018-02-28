@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "862587673882",
+    "firebase_url": "https://timewatcher-productivity-11af3.firebaseio.com",
+    "project_id": "timewatcher-productivity-11af3",
+    "storage_bucket": "timewatcher-productivity-11af3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862587673882:android:f9d0c3505408b008",
+        "android_client_info": {
+          "package_name": "com.techsial.apps.timewatcher.productivity.timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862587673882-tq9jvnr16abai6i836vdp16e2qq8qnu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClIkwio4BgDQeX7lnIiZoa_EC7T1xfqAU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,275 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:6:5-34
+		INJECTED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:4:5-35
+uses-sdk
+ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-ads:10.2.0] C:\Users\Zaigham\.android\build-cache\2c89a5309cd94ec11b946c784e6e74c8f4ee471d\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.0] C:\Users\Zaigham\.android\build-cache\68d681facec4716b18f763863d79466e69b1bb22\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Zaigham\.android\build-cache\e77a0bee4e3f6a073451d0aa56e4eb660083c514\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] C:\Users\Zaigham\.android\build-cache\bf717a08755d3dc27cd708ca8d19c4846742555d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Zaigham\.android\build-cache\47bf7fd0148ec293f978a2608a8f72c9923ee097\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] C:\Users\Zaigham\.android\build-cache\aa2037ab5795648508cd7a51c747b594ca1dbca0\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.0] C:\Users\Zaigham\.android\build-cache\7a7a3ef0b89fac069694ba4778bb71eb2bdb2bb9\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Zaigham\.android\build-cache\2d6a3d85e0d344534adb88c11dcfbae7a8289984\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Zaigham\.android\build-cache\256339d4bb6131b969e0002401a7fc1f694107a2\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\Zaigham\.android\build-cache\c236444f435fdfbd35d9d3baf8ae6f9bba3692c4\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Zaigham\.android\build-cache\201a0f29dc3db4595a0ecc91c0787312c164bafc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Zaigham\.android\build-cache\d1b5806eceb05c3a6429f79fe4f6ffc6f5b20081\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Zaigham\.android\build-cache\bcf7aaf1d56cf91e20a8338ecab6eb1e0d19b3ea\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Zaigham\.android\build-cache\0ff9abdb5a759f63af4eef6aeff5ea0fd7885adb\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Zaigham\.android\build-cache\da4806e173478a50bc662570f93764af268bcd9e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Zaigham\.android\build-cache\ba2f0ebf1c04d202993ceafbe9d0a4d39d162d95\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Zaigham\.android\build-cache\3993a4ec9e61e21c92e7abae5a756967205c056b\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.1.0] C:\Users\Zaigham\.android\build-cache\d1b5806eceb05c3a6429f79fe4f6ffc6f5b20081\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Zaigham\.android\build-cache\e77a0bee4e3f6a073451d0aa56e4eb660083c514\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Zaigham\.android\build-cache\2d6a3d85e0d344534adb88c11dcfbae7a8289984\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:13:5-83
+	android:name
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:13:22-64
+application
+ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:15:5-45:19
+MERGED from [com.google.firebase:firebase-ads:10.2.0] C:\Users\Zaigham\.android\build-cache\2c89a5309cd94ec11b946c784e6e74c8f4ee471d\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Zaigham\.android\build-cache\e77a0bee4e3f6a073451d0aa56e4eb660083c514\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] C:\Users\Zaigham\.android\build-cache\bf717a08755d3dc27cd708ca8d19c4846742555d\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Zaigham\.android\build-cache\47bf7fd0148ec293f978a2608a8f72c9923ee097\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] C:\Users\Zaigham\.android\build-cache\aa2037ab5795648508cd7a51c747b594ca1dbca0\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-core:10.2.0] C:\Users\Zaigham\.android\build-cache\7a7a3ef0b89fac069694ba4778bb71eb2bdb2bb9\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Zaigham\.android\build-cache\2d6a3d85e0d344534adb88c11dcfbae7a8289984\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Zaigham\.android\build-cache\256339d4bb6131b969e0002401a7fc1f694107a2\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\Zaigham\.android\build-cache\c236444f435fdfbd35d9d3baf8ae6f9bba3692c4\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Zaigham\.android\build-cache\201a0f29dc3db4595a0ecc91c0787312c164bafc\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Zaigham\.android\build-cache\d1b5806eceb05c3a6429f79fe4f6ffc6f5b20081\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Zaigham\.android\build-cache\bcf7aaf1d56cf91e20a8338ecab6eb1e0d19b3ea\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Zaigham\.android\build-cache\0ff9abdb5a759f63af4eef6aeff5ea0fd7885adb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Zaigham\.android\build-cache\da4806e173478a50bc662570f93764af268bcd9e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Zaigham\.android\build-cache\ba2f0ebf1c04d202993ceafbe9d0a4d39d162d95\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Zaigham\.android\build-cache\3993a4ec9e61e21c92e7abae5a756967205c056b\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:17:9-47
+	android:theme
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.techsial.apps.simplesmsscheduler.SplashActivity
+ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:screenOrientation
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:22:13-49
+	android:theme
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:23:13-71
+	android:name
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:21:13-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.techsial.apps.simplesmsscheduler.SetuppageActivity
+ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:29:9-32:61
+	android:screenOrientation
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:30:13-82
+activity#com.techsial.apps.simplesmsscheduler.CancelAnAlarmActivity
+ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:34:9-37:61
+	android:screenOrientation
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:37:13-49
+	android:label
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:36:13-51
+	android:name
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:35:13-86
+activity#com.techsial.apps.simplesmsscheduler.HelpActivity
+ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:39:9-42:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:41:13-35
+	android:name
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:40:13-77
+service#com.techsial.apps.simplesmsscheduler.SendSMSAlarmService
+ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:44:9-92
+	android:name
+		ADDED from F:\AndroidStudioWorkspace\Simple SMS Scheduler\app\src\main\AndroidManifest.xml:44:18-89
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Zaigham\.android\build-cache\e77a0bee4e3f6a073451d0aa56e4eb660083c514\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Zaigham\.android\build-cache\2d6a3d85e0d344534adb88c11dcfbae7a8289984\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Zaigham\.android\build-cache\e77a0bee4e3f6a073451d0aa56e4eb660083c514\output\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Zaigham\.android\build-cache\e77a0bee4e3f6a073451d0aa56e4eb660083c514\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Zaigham\.android\build-cache\e77a0bee4e3f6a073451d0aa56e4eb660083c514\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Zaigham\.android\build-cache\e77a0bee4e3f6a073451d0aa56e4eb660083c514\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Zaigham\.android\build-cache\e77a0bee4e3f6a073451d0aa56e4eb660083c514\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Zaigham\.android\build-cache\e77a0bee4e3f6a073451d0aa56e4eb660083c514\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Zaigham\.android\build-cache\e77a0bee4e3f6a073451d0aa56e4eb660083c514\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Zaigham\.android\build-cache\e77a0bee4e3f6a073451d0aa56e4eb660083c514\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Zaigham\.android\build-cache\47bf7fd0148ec293f978a2608a8f72c9923ee097\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Zaigham\.android\build-cache\47bf7fd0148ec293f978a2608a8f72c9923ee097\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Zaigham\.android\build-cache\47bf7fd0148ec293f978a2608a8f72c9923ee097\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Zaigham\.android\build-cache\47bf7fd0148ec293f978a2608a8f72c9923ee097\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Zaigham\.android\build-cache\2d6a3d85e0d344534adb88c11dcfbae7a8289984\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Zaigham\.android\build-cache\2d6a3d85e0d344534adb88c11dcfbae7a8289984\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Zaigham\.android\build-cache\2d6a3d85e0d344534adb88c11dcfbae7a8289984\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Zaigham\.android\build-cache\7c48a005c11cc41782343903a6e4d3fb28cc076e\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Zaigham\.android\build-cache\ea3c63cd9da5ba64be39c4cc08a8f440233d6ee0\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Zaigham\.android\build-cache\256339d4bb6131b969e0002401a7fc1f694107a2\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Zaigham\.android\build-cache\256339d4bb6131b969e0002401a7fc1f694107a2\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Zaigham\.android\build-cache\256339d4bb6131b969e0002401a7fc1f694107a2\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Zaigham\.android\build-cache\256339d4bb6131b969e0002401a7fc1f694107a2\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Zaigham\.android\build-cache\256339d4bb6131b969e0002401a7fc1f694107a2\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Zaigham\.android\build-cache\201a0f29dc3db4595a0ecc91c0787312c164bafc\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Zaigham\.android\build-cache\201a0f29dc3db4595a0ecc91c0787312c164bafc\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Zaigham\.android\build-cache\201a0f29dc3db4595a0ecc91c0787312c164bafc\output\AndroidManifest.xml:20:20-65

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "515001895874",
+    "firebase_url": "https://timer-torch.firebaseio.com",
+    "project_id": "timer-torch",
+    "storage_bucket": "timer-torch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515001895874:android:855990835d7861a6",
+        "android_client_info": {
+          "package_name": "com.ghuman.apps.torch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515001895874-9jarkso3626beaembdf0flc129htdiqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFO7o3_LDh4o8PhcWiKV2H3Au221OGg8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

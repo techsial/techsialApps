@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutParent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/repeat_bg"
+    tools:context="com.ghuman.apps.torch.ScreenLightActivity">
+
+    <Button
+        android:id="@+id/btnColorTransition"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_above="@+id/btnPowerOnOff"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/color_transition_icon" />
+
+    <Button
+        android:id="@+id/btnPowerOnOff"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/btn_power_off" />
+
+    <Button
+        android:id="@+id/btnColorLight"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_below="@+id/btnPowerOnOff"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/color_icon" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/ad_view_banner_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_id_screen_light_bottom" />
+
+</RelativeLayout>

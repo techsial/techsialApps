@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1023866678745",
+    "firebase_url": "https://sms-scheduler-797e3.firebaseio.com",
+    "project_id": "sms-scheduler-797e3",
+    "storage_bucket": "sms-scheduler-797e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023866678745:android:060701222da08f1a",
+        "android_client_info": {
+          "package_name": "com.techsial.apps.simplesmsscheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023866678745-pasnumg2spplim3o9tgntpedukbsq7pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMBR0U9Tw5Me6j0nRByKSdWGFGinF1-ZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

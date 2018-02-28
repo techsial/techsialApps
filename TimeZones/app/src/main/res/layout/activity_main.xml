@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/repeat_bg"
+    android:orientation="vertical">
+
+    <!--<com.techsial.apps.timezones.utils.ScrollViewInterceptor-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:orientation="vertical"-->
+    <!--android:gravity="center_horizontal">-->
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:divider="@color/list_divider"
+        android:dividerHeight="0.7dp"
+        android:focusableInTouchMode="true"
+        android:footerDividersEnabled="true"
+        android:headerDividersEnabled="false"></ListView>
+
+    <!--<com.google.android.gms.ads.NativeExpressAdView-->
+    <!--android:id="@+id/adViewNativeMainScreen"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginBottom="15dp"-->
+    <!--android:layout_marginTop="15dp"-->
+    <!--ads:adSize="320x300"-->
+    <!--ads:adUnitId="@string/native_ad_id"></com.google.android.gms.ads.NativeExpressAdView>-->
+
+    <!--</LinearLayout>-->
+
+    <!--</com.techsial.apps.timezones.utils.ScrollViewInterceptor>-->
+
+</RelativeLayout>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "242096580765",
+    "firebase_url": "https://time-zone-converter-cafcf.firebaseio.com",
+    "project_id": "time-zone-converter-cafcf",
+    "storage_bucket": "time-zone-converter-cafcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242096580765:android:59d6c49de9fbe66c",
+        "android_client_info": {
+          "package_name": "com.techsial.apps.timezones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242096580765-ng3bes3r1s3m8hi21orkjlfvis3nn76o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb_hMWBYTdYvrg43jIF8tyZ-49KtBZiaY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,76 @@
+<resources>
+
+    <string name="app_id_admob">ca-app-pub-4701981589622742~8542711119</string>
+    <string name="banner_id_main_screen">ca-app-pub-4701981589622742/6926377113</string>
+    <string name="interstitial_id_main_screen">ca-app-pub-4701981589622742/8505685114</string>
+    <string name="native_ad_id">ca-app-pub-4701981589622742/7410166212</string>
+
+    <string name="app_name">Time Zone Converter</string>
+    <string name="invitation_message">"Try the Time Zone Converter app to search and edit/convert time zones against your desired time zone!"</string>
+    <string name="rate_app_message">"Thank you for rating Time Zone Converter!"</string>
+    <string name="about_no_email">"There is no email client installed."</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_add_time_zone">Add Time Zone</string>
+    <string name="menu_help">Help</string>
+    <string name="share_invite">Share/invite Someone</string>
+    <string name="time_watcher">Time Watcher</string>
+    <string name="video_editor_tools">Video Editor Tools</string>
+    <string name="sms_scheduler">SMS Scheduler</string>
+    <string name="rate_app">Rate App</string>
+    <string name="view_more">View More</string>
+    <string name="send_feedback">Send Feedback</string>
+
+    <string name="title_activity_main">\tTime Zones</string>
+    <string name="add">Add Time Zone</string>
+    <string name="refresh">Refresh Time</string>
+    <string name="search">Search Time Zone</string>
+    <string name="title_activity_search">ADD NEW TIME ZONE</string>
+    <string name="add_content_description">Add</string>
+    <string name="time_image">Time Image</string>
+    <string name="empty_view">No Time Zones to display. Please search and Add timezones</string>
+    <string name="title_activity_help">Help</string>
+
+    <string name="text_current_zone">Local Time Zone</string>
+    <string name="text_list_zones">Time Zones</string>
+    <string name="text_minute">30</string>
+
+    <string name="time_display">10:30</string>
+    <string name="country">Pakistan</string>
+    <string name="city">Karachi</string>
+    <string name="date">02 Wed 2017</string>
+
+    <string name="select_city">Select City</string>
+    <string name="deafult_city_value">Paris</string>
+    <string name="button_ok_on_click">OK</string>
+    <string name="ampm">AM</string>
+    <string name="help_activity_label">Help</string>
+
+
+    <string name="help">
+        \n<b>Help Guide</b>\n\n
+        <b>Add new Time Zone:</b>\n\n
+        Go to the Action bar.\n
+        Tap on the Add Time Zone icon.\n
+Search and select Time Zone to add.\n\n
+        <b>Edit Time Zone:</b>\n\n
+Tap on a Time Zone.\n
+        Tap on \'Edit Time Zone\'.\n
+i.e. what is the time in New York when it is\n 9:00 AM in Paris?\n\n
+<b>Delete Time Zone:</b>\n\n
+Tap on a Time Zone.\n
+        Tap on \'Delete Time Zone\'.\n\n
+        <b>Refresh Time Zone:</b>\n\n
+Go to the Action bar.\n
+        Tap on the refresh icon to sync.\n\n
+<b>Widget Help:</b>\n\n
+Go to widget launcher.\n
+Select Time Zone converter Widget.\n
+Select a city to display time in widget.\n\n
+Tap on Time Zone to edit.\n
+i.e. what is the time in New York when it is\n 9:00 AM in Paris?\n\n
+</string>
+    <string name="more_apps">More Apps</string>
+    <string name="delete">Delete Time Zone</string>
+    <string name="edit_time">Edit Time Zone</string>
+
+</resources>

@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:timezone="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_time_watcher"
+        android:orderInCategory="100"
+        android:title="@string/time_watcher"
+        timezone:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_share_invite"
+        android:orderInCategory="100"
+        android:title="@string/share_invite"
+        timezone:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_send_feedback"
+        android:orderInCategory="100"
+        android:title="@string/send_feedback"
+        timezone:showAsAction="never" />
+
+    <!--<item-->
+    <!--android:id="@+id/menu_rate_app"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:title="@string/rate_app"-->
+    <!--timezone:showAsAction="never" />-->
+
+    <item
+        android:id="@+id/menu_view_more"
+        android:orderInCategory="100"
+        android:title="@string/view_more"
+        timezone:showAsAction="never" />
+
+</menu>

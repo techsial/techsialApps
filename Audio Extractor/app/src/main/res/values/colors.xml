@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AF1A07</color>
+    <color name="colorPrimaryDark">#9F1A07</color>
+    <color name="colorAccent">#ED1C24</color>
+
+    <color name="background">#F5F5F5</color>
+    <color name="gray_dark">#333333</color>
+
+    <color name="btn_menuText">#000000</color>
+    <color name="btn_menuText_hover">#ffffff</color>
+
+    <color name="btn_menu">#ffffff</color>
+    <color name="btn_menu_hover">#950100</color>
+</resources>

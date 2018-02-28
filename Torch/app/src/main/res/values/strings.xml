@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Timer Torch</string>
+    <string name="invitation_message">"Try the Timer Torch Flash Light app to get help when you are at some dark place!"</string>
+
+
+    <string name="app_id_admob">ca-app-pub-4701981589622742~6974919516</string>
+    <string name="banner_id_main_screen">ca-app-pub-4701981589622742/9788785118</string>
+    <string name="banner_id_screen_light_bottom">ca-app-pub-4701981589622742/6695717910</string>
+    <string name="interstitial_id_main_screen">ca-app-pub-4701981589622742/3742251518</string>
+    <string name="interstitial_id_screen_light">ca-app-pub-4701981589622742/4381379915</string>
+</resources>

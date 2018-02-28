@@ -1,0 +1,124 @@
+package com.techsial.apps.video_to_mp3.audio_extractor.activity;
+
+import android.media.MediaPlayer;
+import android.net.Uri;
+import android.os.Bundle;
+import android.support.annotation.Nullable;
+import android.view.MenuItem;
+import android.widget.SeekBar;
+import android.widget.TextView;
+import android.widget.VideoView;
+
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.NativeExpressAdView;
+import com.techsial.apps.video_to_mp3.audio_extractor.R;
+
+
+public class PreviewActivity extends BaseActivity {
+    private VideoView videoView;
+    private SeekBar seekBar;
+    private int stopPosition;
+    private static final String POSITION = "position";
+    private static final String FILEPATH = "filepath";
+
+    @Override
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_preview);
+
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
+
+        videoView = (VideoView) findViewById(R.id.videoView);
+        seekBar = (SeekBar) findViewById(R.id.seekBar);
+
+        TextView tvInstruction = (TextView) findViewById(R.id.tvInstruction);
+        String filePath = getIntent().getStringExtra(FILEPATH);
+
+
+        tvInstruction.setText("Video stored at path " + filePath);
+        videoView.setVideoURI(Uri.parse(filePath));
+        videoView.start();
+
+
+        videoView.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
+
+            @Override
+            public void onPrepared(MediaPlayer mp) {
+                mp.setLooping(true);
+                seekBar.setMax(videoView.getDuration());
+                seekBar.postDelayed(onEverySecond, 1000);
+            }
+        });
+        seekBar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
+
+            @Override
+            public void onStopTrackingTouch(SeekBar seekBar) {
+            }
+
+            @Override
+            public void onStartTrackingTouch(SeekBar seekBar) {
+            }
+
+            @Override
+            public void onProgressChanged(SeekBar seekBar, int progress,
+                                          boolean fromUser) {
+
+                if (fromUser) {
+                    // this is when actually seekbar has been seeked to a new position
+                    videoView.seekTo(progress);
+                }
+            }
+        });
+
+        showInterstitialAd();
+        try {
+            NativeExpressAdView adView = (NativeExpressAdView) findViewById(R.id.adViewPreviewScreen);
+            AdRequest request = new AdRequest.Builder().build();
+            adView.loadAd(request);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        stopPosition = videoView.getCurrentPosition(); //stopPosition is an int
+        videoView.pause();
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        videoView.seekTo(stopPosition);
+        videoView.start();
+    }
+
+    private Runnable onEverySecond = new Runnable() {
+
+        @Override
+        public void run() {
+
+            if (seekBar != null) {
+                seekBar.setProgress(videoView.getCurrentPosition());
+            }
+
+            if (videoView.isPlaying()) {
+                seekBar.postDelayed(onEverySecond, 1000);
+            }
+
+        }
+    };
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // handle arrow click here
+        if (item.getItemId() == android.R.id.home) {
+            finish(); // close this activity and return to preview activity (if there is any)
+        }
+
+        return super.onOptionsItemSelected(item);
+    }
+}

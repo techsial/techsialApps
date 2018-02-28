@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red_dark">#7D1101</color>
+    <color name="green_light">#73D216</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="screenLightOne">#00ff80</color>
+    <color name="screenLightTwo">#00ffbf</color>
+    <color name="screenLightThree">#00ffff</color>
+    <color name="screenLightFour">#00bfff</color>
+    <color name="screenLightFive">#0080ff</color>
+    <color name="screenLightSix">#0040ff</color>
+    <color name="screenLightSeven">#0000ff</color>
+    <color name="screenLightEight">#4000ff</color>
+    <color name="screenLightNine">#8000ff</color>
+    <color name="screenLightTen">#bf00ff</color>
+    <color name="screenLightEleven">#ff00ff</color>
+    <color name="screenLightTwelve">#ff00bf</color>
+    <color name="screenLightThirteen">#ff0080</color>
+    <color name="screenLightForteen">#ff0040</color>
+    <color name="screenLightFifteen">#ff0000</color>
+    <color name="screenLightSixteen">#ff4000</color>
+    <color name="screenLightSeventeen">#ff8000</color>
+    <color name="screenLightEighteen">#ffbf00</color>
+    <color name="screenLightNinteen">#ffff00</color>
+    <color name="screenLightTwenty">#bfff00</color>
+    <color name="screenLightTwentyOne">#80ff00</color>
+    <color name="screenLightTwentyTwo">#40ff00</color>
+    <color name="screenLightTwentyThree">#00ff00</color>
+    <color name="screenLightTwentyFour">#00ff40</color>
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Video Editor Tools</string>
+    <string name="facebook_app_id">188779651659376</string>
+
+    <string name="timeRangeTrimVideo">Please select the time range to Cut/Trim video.</string>
+    <string name="timeRangeVideoToGif">Select video range from above bar to convert to GIF.\n\n Select GIF quality from below bar.</string>
+    <string name="timeRangeExtractImages">Please select the time range to extract images from video.</string>
+    <string name="instructionsMergeVideos">Each video with 20 sec duration will take upto 10 min to merge into 40 sec video, so prefer to merge small videos, otherwise it will take long time.\n   Videos with high resolution will take more time so prefer to compress videos before merging.</string>
+    <string name="uploadVideo">Upload\nVideo</string>
+    <string name="compressVideo">Compress\nVideo</string>
+    <string name="cutVideo">Cut\nVideo</string>
+    <string name="extractImages">Extract\nImages</string>
+    <string name="extractAudio">Extract\nAudio</string>
+    <string name="addFade">Add\nFade in-out</string>
+    <string name="increaseSpeed">Fast\nMotion</string>
+    <string name="decreaseSpeed">Slow\nMotion</string>
+    <string name="reverseVideo">Reverse\nVideo</string>
+    <string name="dialogMessage">The processing will take a long time.Please be patient.</string>
+    <string name="slogan">Trim videos\nCompress vieos\nExtract audio(Mp3) from videos\nExtract images from videos</string>
+
+    <string name="app_id_admob">ca-app-pub-4701981589622742~7913805515</string>
+    <string name="main_screen_interstatial_id">ca-app-pub-4701981589622742/4901463515</string>
+    <string name="native_ad_id">ca-app-pub-4701981589622742/7740507512</string>
+
+    <string name="share_invite">Share/invite Someone</string>
+    <string name="time_watcher">Time Watcher</string>
+    <string name="rate_app">Rate App</string>
+    <string name="view_more">View More</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="about_no_email">"There is no email client installed."</string>
+    <string name="invitation_message">"Try Video Editor Tools application to Trim videos / Merge Videos / Compress videos / Video to GIF / Extract audio(MP3) from videos / Extract images from videos! etc"</string>
+    <string name="rate_app_message">Please rate application with 5 stars. Your good(5 stars) review will be a great support for us. Thanks for your support!</string>
+
+</resources>

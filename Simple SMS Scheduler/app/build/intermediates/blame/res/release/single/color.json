@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Zaigham\\.android\\build-cache\\47bf7fd0148ec293f978a2608a8f72c9923ee097\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Zaigham\\.android\\build-cache\\47bf7fd0148ec293f978a2608a8f72c9923ee097\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Zaigham\\.android\\build-cache\\47bf7fd0148ec293f978a2608a8f72c9923ee097\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\release\\color\\red_button_text.xml",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\color\\red_button_text.xml"
+    }
+]

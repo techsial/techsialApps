@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "654158438817",
+    "firebase_url": "https://audio-extractor-4a3f8.firebaseio.com",
+    "project_id": "audio-extractor-4a3f8",
+    "storage_bucket": "audio-extractor-4a3f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654158438817:android:11fe44be62c73e22",
+        "android_client_info": {
+          "package_name": "com.techsial.apps.video_to_mp3.audio_extractor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654158438817-okav9h4q8s7rjo6s4h96rm75ut6r82nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4t7nHOXLr3fe8FT_irEhMz9hNT-eXyeA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

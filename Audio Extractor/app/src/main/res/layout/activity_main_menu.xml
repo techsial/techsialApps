@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_home"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical">
+
+    <com.techsial.apps.video_to_mp3.audio_extractor.views.ScrollViewInterceptor
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.techsial.apps.video_to_mp3.audio_extractor.views.GridViewExpanded
+            android:id="@+id/gridview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:paddingTop="15dp"
+            android:gravity="bottom|fill_vertical"
+            android:horizontalSpacing="15dp"
+            android:numColumns="auto_fit"
+            android:scrollbars="none"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="15dp" />
+
+    </com.techsial.apps.video_to_mp3.audio_extractor.views.ScrollViewInterceptor>
+
+</RelativeLayout>

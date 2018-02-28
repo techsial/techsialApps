@@ -1,0 +1,51 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuCancelAnAlarm"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Cancel Scheduled SMS" />
+
+    <item
+        android:id="@+id/menu_share_invite"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/share_invite" />
+
+    <item
+        android:id="@+id/menu_video_editor_tools"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/video_editor_tools" />
+
+    <item
+        android:id="@+id/menu_time_zone_converter"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/time_zone_converter" />
+
+    <item
+        android:id="@+id/menu_time_watcher"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/time_watcher" />
+
+    <!--<item-->
+    <!--android:id="@+id/menuViewMore"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:showAsAction="never"-->
+    <!--android:title="@string/view_more" />-->
+
+    <item
+        android:id="@+id/menu_send_feedback"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/send_feedback" />
+
+    <item
+        android:id="@+id/menu_help"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/help" />
+
+</menu>

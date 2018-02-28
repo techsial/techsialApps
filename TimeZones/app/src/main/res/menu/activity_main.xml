@@ -1,0 +1,72 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:timezone="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_add_time_zone"
+        android:icon="@drawable/add_time_zone"
+        android:orderInCategory="100"
+        android:title="@string/menu_add_time_zone"
+        timezone:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_refresh_time_zone"
+        android:icon="@drawable/ic_action_refresh"
+        android:orderInCategory="100"
+        android:title="@string/refresh"
+        timezone:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_video_editor_tools"
+        android:orderInCategory="100"
+        android:title="@string/video_editor_tools"
+        timezone:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_time_watcher"
+        android:orderInCategory="100"
+        android:title="@string/time_watcher"
+        timezone:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_sms_scheduler"
+        android:orderInCategory="100"
+        android:title="@string/sms_scheduler"
+        timezone:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_share_invite"
+        android:orderInCategory="100"
+        android:title="@string/share_invite"
+        timezone:showAsAction="never" />
+
+    <!--<item-->
+    <!--android:id="@+id/menu_rate_app"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:title="@string/rate_app"-->
+    <!--timezone:showAsAction="never" />-->
+
+    <!--<item-->
+        <!--android:id="@+id/menu_view_more"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="@string/view_more"-->
+        <!--timezone:showAsAction="never" />-->
+
+    <item
+        android:id="@+id/menu_send_feedback"
+        android:orderInCategory="100"
+        android:title="@string/send_feedback"
+        timezone:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_help"
+        android:icon="@drawable/ic_action_help"
+        android:orderInCategory="100"
+        android:title="@string/menu_help"
+        timezone:showAsAction="never" />
+
+    <!--    <item
+            android:id="@+id/more_apps"
+            android:title="@string/more_apps"
+            android:showAsAction="never" />-->
+
+</menu>

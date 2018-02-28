@@ -1,0 +1,166 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,200,314,397,501,605,725",
+                        "endColumns": "144,113,82,103,103,119,102",
+                        "endOffsets": "195,309,392,496,600,720,823"
+                    },
+                    "to": {
+                        "startLines": "75,76,77,78,79,80,81",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "5325,5470,5584,5667,5771,5875,5995",
+                        "endColumns": "144,113,82,103,103,119,102",
+                        "endOffsets": "5465,5579,5662,5766,5870,5990,6093"
+                    }
+                },
+                {
+                    "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,20,24,29",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "186,709,862,1105",
+                        "endLines": "12,22,27,32",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "472,856,1099,1350"
+                    },
+                    "to": {
+                        "startLines": "97,104,107,111",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "7155,7446,7598,7840",
+                        "endLines": "103,106,110,114",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "7441,7593,7835,8085"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.2.0.aar\\33a6e8bb48d07611879087af77cb07af\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "276,439",
+                        "endColumns": "63,166",
+                        "endOffsets": "339,605"
+                    },
+                    "to": {
+                        "startLines": "44,58",
+                        "startColumns": "4,4",
+                        "startOffsets": "2190,3549",
+                        "endColumns": "67,166",
+                        "endOffsets": "2253,3711"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-10.2.0.aar\\753c095674f309770e5593c3a1cafc7d\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "170,208,293,361,426,495,556,623,663,755",
+                        "endColumns": "37,84,67,64,68,60,66,39,91,54",
+                        "endOffsets": "207,292,360,425,494,555,622,662,754,809"
+                    },
+                    "to": {
+                        "startLines": "46,68,69,70,71,72,73,74,91,92",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2339,4842,4931,5003,5072,5145,5210,5281,6764,6860",
+                        "endColumns": "41,88,71,68,72,64,70,43,95,58",
+                        "endOffsets": "2376,4926,4998,5067,5140,5205,5276,5320,6855,6914"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-lite-10.2.0.aar\\177d7314e0d1ca2e155527caf396ad35\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "167",
+                        "endLines": "11",
+                        "endColumns": "8",
+                        "endOffsets": "560"
+                    },
+                    "to": {
+                        "startLines": "115",
+                        "startColumns": "4",
+                        "startOffsets": "8090",
+                        "endLines": "122",
+                        "endColumns": "8",
+                        "endOffsets": "8483"
+                    }
+                },
+                {
+                    "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "17,4,19,3,6,5,8,21,20,16,22,13,15,9,10,12,11,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "845,107,927,56,213,160,274,1102,1007,712,1205,562,656,312,374,494,428,608",
+                        "endColumns": "80,52,79,50,59,52,37,102,94,132,79,45,55,61,53,67,65,47",
+                        "endOffsets": "921,155,1002,102,268,208,307,1200,1097,840,1280,603,707,369,423,557,489,651"
+                    },
+                    "to": {
+                        "startLines": "45,47,48,49,50,82,83,84,85,86,87,88,89,90,93,94,95,96",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2258,2381,2434,2514,2565,6098,6151,6189,6292,6387,6520,6600,6646,6702,6919,6973,7041,7107",
+                        "endColumns": "80,52,79,50,59,52,37,102,94,132,79,45,55,61,53,67,65,47",
+                        "endOffsets": "2334,2429,2509,2560,2620,6146,6184,6287,6382,6515,6595,6641,6697,6759,6968,7036,7102,7150"
+                    }
+                },
+                {
+                    "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "42,43",
+                        "startColumns": "4,4",
+                        "startOffsets": "2076,2134",
+                        "endColumns": "57,55",
+                        "endOffsets": "2129,2185"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "215,301,377,463,549,625,702,778,951,1052,1233,1354,1457,1637,1756,1855,2043,2144,2325,2446,2621,2765,2824,2882",
+                        "endColumns": "85,75,85,85,75,76,75,75,100,180,120,102,179,118,98,187,100,180,120,174,143,58,57,74",
+                        "endOffsets": "300,376,462,548,624,701,777,853,1051,1232,1353,1456,1636,1755,1854,2042,2143,2324,2445,2620,2764,2823,2881,2956"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16,51,52,53,54,55,56,57,59,60,61,62,63,64,65,66,67",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "443,533,613,703,793,873,954,1034,2625,2730,2911,3036,3143,3323,3446,3716,3904,4009,4190,4315,4490,4638,4701,4763",
+                        "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,102,187,104,180,124,174,147,62,61,78",
+                        "endOffsets": "528,608,698,788,868,949,1029,1109,2725,2906,3031,3138,3318,3441,3544,3899,4004,4185,4310,4485,4633,4696,4758,4837"
+                    }
+                },
+                {
+                    "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "6,4,8,9,3,2,5,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "257,157,305,354,109,57,204,404",
+                        "endColumns": "44,45,47,48,46,50,51,64",
+                        "endOffsets": "297,198,348,398,151,103,251,464"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,17",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,150,196,244,293,340,391,1114",
+                        "endColumns": "44,45,47,48,46,50,51,64",
+                        "endOffsets": "145,191,239,288,335,386,438,1174"
+                    }
+                }
+            ]
+        }
+    ]
+}

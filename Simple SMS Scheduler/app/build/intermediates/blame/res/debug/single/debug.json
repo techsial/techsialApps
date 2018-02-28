@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_star_normal.png.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable-xhdpi\\star_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\layout_setuppage.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\layout\\setuppage.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_star_selected.png.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable-xxxhdpi\\star_selected.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_bg.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable\\input_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_common_bg.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable\\button_common_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_red.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable\\button_red.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_star_normal.png.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable-mdpi\\star_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_star_selected.png.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable-hdpi\\star_selected.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_star_normal.png.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable-xxxhdpi\\star_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\menu_setuppage.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\menu\\setuppage.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_rate_app.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\layout\\dialog_rate_app.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contact_normal.png.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable\\contact_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rating_star.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable\\rating_star.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sms_scheduler.png.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable\\sms_scheduler.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_bg.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable\\list_item_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_star_selected.png.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable-xxhdpi\\star_selected.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_contact.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable\\button_contact.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_star_normal.png.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable-xxhdpi\\star_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\layout_cancelanalarm.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\layout\\cancelanalarm.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_dialog_bg.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable\\header_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_star_selected.png.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable-mdpi\\star_selected.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_star_selected.png.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable-xhdpi\\star_selected.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_bg_rounded.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable\\dialog_bg_rounded.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_star_normal.png.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable-hdpi\\star_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\Zaigham\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\3de79afa1f116f31467f69dd0a3e771e\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\color_red_button_text.xml.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\color\\red_button_text.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contact_pressed.png.flat",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\drawable\\contact_pressed.png"
+    }
+]

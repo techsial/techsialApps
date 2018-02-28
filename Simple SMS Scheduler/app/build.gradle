@@ -1,0 +1,25 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 15
+    buildToolsVersion "25.0.1"
+
+    defaultConfig {
+        applicationId "com.techsial.apps.simplesmsscheduler"
+        minSdkVersion 15
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles 'proguard-project.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:25.1.0'
+    compile 'com.google.firebase:firebase-ads:10.2.0'
+}
+apply plugin: 'com.google.gms.google-services'

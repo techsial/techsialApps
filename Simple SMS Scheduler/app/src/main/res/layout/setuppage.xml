@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/topLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:layout_marginTop="20dp"
+                    android:orientation="horizontal">
+
+                    <EditText
+                        android:id="@+id/editTextNumber"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_toLeftOf="@+id/buttonContact"
+                        android:background="@drawable/input_bg"
+                        android:ems="10"
+                        android:hint="03XXXXX..."
+                        android:inputType="phone"
+                        android:padding="10dp"></EditText>
+
+                    <Button
+                        android:id="@+id/buttonContact"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginLeft="5dp"
+                        android:background="@drawable/button_contact"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginTop="10dp"
+                    android:text="Message"
+                    android:textSize="20dp" />
+
+                <EditText
+                    android:id="@+id/editTextMessage"
+                    android:layout_width="match_parent"
+                    android:layout_height="130dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/input_bg"
+                    android:ems="10"
+                    android:gravity="start"
+                    android:maxLength="250"
+                    android:padding="10dp"
+                    android:singleLine="false"></EditText>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:weightSum="12">
+
+                    <Button
+                        android:id="@+id/buttonTimePickup"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_below="@+id/buttonContact"
+                        android:layout_marginRight="15dp"
+                        android:layout_weight="5"
+                        android:background="@drawable/button_common_bg"
+                        android:gravity="center"
+                        android:text="Select Time"
+                        android:textColor="@android:color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+                    <Button
+                        android:id="@+id/buttonDatePickup"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="5"
+                        android:background="@drawable/button_common_bg"
+                        android:gravity="center"
+                        android:text="Select Date"
+                        android:textColor="@android:color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:text="Frequency"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textSize="20dp" />
+
+                <RadioGroup
+                    android:id="@+id/radioGroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@android:color/white"
+                    android:orientation="vertical"
+                    android:padding="15dp">
+
+                    <RadioButton
+                        android:id="@+id/oneTime"
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:text="One Time" />
+
+                    <RadioButton
+                        android:id="@+id/fifteenMinutes"
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:text="15 Minutes"
+                        android:visibility="gone" />
+
+                    <RadioButton
+                        android:id="@+id/halfHour"
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:text="Half an Hour"
+                        android:visibility="gone" />
+
+                    <RadioButton
+                        android:id="@+id/hour"
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:text="Hourly" />
+
+                    <RadioButton
+                        android:id="@+id/halfDay"
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:text="Half a Day"
+                        android:visibility="gone" />
+
+                    <RadioButton
+                        android:id="@+id/daily"
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:text="Daily" />
+
+                    <RadioButton
+                        android:id="@+id/weekly"
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:text="Weekly" />
+
+                    <RadioButton
+                        android:id="@+id/monthly"
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:text="Monthly" />
+
+                    <RadioButton
+                        android:id="@+id/Yearly"
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:text="Yearly"
+                        android:visibility="gone" />
+                </RadioGroup>
+
+                <com.google.android.gms.ads.NativeExpressAdView
+                    android:id="@+id/adViewNativeMainScreen"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:visibility="gone"
+                    ads:adSize="320x300"
+                    ads:adUnitId="@string/native_ad_id"></com.google.android.gms.ads.NativeExpressAdView>
+
+                <Button
+                    android:id="@+id/buttonConfirm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="20dp"
+                    android:background="@drawable/button_common_bg"
+                    android:text="  SCHEDULE SMS  "
+                    android:textColor="@android:color/white"
+                    android:textSize="18dp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

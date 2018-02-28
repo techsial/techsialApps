@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Material Theme Colors-->
+    <color name="colorPrimary">#5970BB</color>
+    <color name="colorPrimaryDark">#4C5BB0</color>
+    <color name="colorAccent">#3F51B5</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#727272</color>
+    <color name="windowBackground">#ECEFF1</color>
+    <color name="day_color_start">#42A5F5</color>
+    <color name="day_color_end">#90CAF9</color>
+    <color name="night_color_start">#444444</color>
+    <color name="night_color_end">#222222</color>
+    <color name="background">#F5F5F5</color>
+
+    <!--Material Theme Colors-->
+</resources>

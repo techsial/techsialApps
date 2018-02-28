@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_splash.xml",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_help.xml",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_rate_app.xml",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\layout\\dialog_rate_app.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\release\\layout\\cancelanalarm.xml",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\layout\\cancelanalarm.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\build\\intermediates\\res\\merged\\release\\layout\\setuppage.xml",
+        "source": "F:\\AndroidStudioWorkspace\\Simple SMS Scheduler\\app\\src\\main\\res\\layout\\setuppage.xml"
+    }
+]
