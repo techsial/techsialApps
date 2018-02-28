@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1098419657811",
+    "firebase_url": "https://battery-info-level-alerts.firebaseio.com",
+    "project_id": "battery-info-level-alerts",
+    "storage_bucket": "battery-info-level-alerts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098419657811:android:6344086c2517fd56",
+        "android_client_info": {
+          "package_name": "com.ghuman.apps.batterynotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098419657811-b1atdon5gg2or8tlt318pu74esl4g73e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfxj-7Cha_SEz0svuNwgIG58S2b8XX0Jw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

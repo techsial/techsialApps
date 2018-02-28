@@ -1,0 +1,50 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:timezone="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_help"
+        android:orderInCategory="100"
+        android:title="@string/help"
+        timezone:showAsAction="never" />
+    <item
+        android:id="@+id/menu_share_invite"
+        android:orderInCategory="100"
+        android:title="@string/share_invite"
+        timezone:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_video_editor_tools"
+        android:orderInCategory="100"
+        android:title="@string/video_editor_tools"
+        timezone:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_time_zone_converter"
+        android:orderInCategory="100"
+        android:title="@string/time_zone_converter"
+        timezone:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_time_watcher"
+        android:orderInCategory="100"
+        android:title="@string/time_watcher"
+        timezone:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_sms_scheduler"
+        android:orderInCategory="100"
+        android:title="@string/sms_scheduler"
+        timezone:showAsAction="never" />
+    <!--<item-->
+    <!--android:id="@+id/menu_view_more"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:title="@string/view_more"-->
+    <!--timezone:showAsAction="never" />-->
+
+    <item
+        android:id="@+id/menu_send_feedback"
+        android:orderInCategory="100"
+        android:title="@string/send_feedback"
+        timezone:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorGrayLight"
+    android:orientation="vertical"
+    tools:context="com.ghuman.apps.batterynotifier.activities.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:padding="@dimen/textViewMarginNormal"
+        android:background="@color/colorAccent"
+        android:text="Turn ON 'Notifications' against battery level from below options"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/textViewTextSizeNormal" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/activitySideMarginNormal"
+                android:paddingRight="@dimen/activitySideMarginNormal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/layoutMarginNormal"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@android:color/white"
+                        android:orientation="vertical"
+                        android:padding="@dimen/layoutPaddingNormal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Notify at:"
+                            android:textColor="@color/colorGrayDark"
+                            android:textSize="@dimen/textViewTextSizeNormal"
+                            android:textStyle="bold" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/textViewMarginSmall"
+                            android:gravity="center_horizontal"
+                            android:orientation="horizontal">
+
+                            <CheckBox
+                                android:id="@+id/checkTwentyPercent"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginRight="@dimen/textViewMarginNormal"
+                                android:layout_marginTop="@dimen/textViewMarginNormal"
+                                android:button="@drawable/button_checkbox"
+                                android:paddingLeft="@dimen/textViewMarginSmall"
+                                android:text="20 %"
+                                android:textColor="@color/colorGrayDark"
+                                android:textSize="@dimen/textViewTextSizeSmall"
+                                android:textStyle="italic" />
+
+                            <CheckBox
+                                android:id="@+id/checkThirtyPercent"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginRight="@dimen/textViewMarginNormal"
+                                android:layout_marginTop="@dimen/textViewMarginNormal"
+                                android:button="@drawable/button_checkbox"
+                                android:paddingLeft="@dimen/textViewMarginSmall"
+                                android:text="30 %"
+                                android:textColor="@color/colorGrayDark"
+                                android:textSize="@dimen/textViewTextSizeSmall"
+                                android:textStyle="italic" />
+
+                            <CheckBox
+                                android:id="@+id/checkFortyPercent"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginRight="@dimen/textViewMarginNormal"
+                                android:layout_marginTop="@dimen/textViewMarginNormal"
+                                android:button="@drawable/button_checkbox"
+                                android:paddingLeft="@dimen/textViewMarginSmall"
+                                android:text="40 %"
+                                android:textColor="@color/colorGrayDark"
+                                android:textSize="@dimen/textViewTextSizeSmall"
+                                android:textStyle="italic" />
+
+                            <CheckBox
+                                android:id="@+id/checkFiftyPercent"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/textViewMarginNormal"
+                                android:button="@drawable/button_checkbox"
+                                android:paddingLeft="@dimen/textViewMarginSmall"
+                                android:text="50 %"
+                                android:textColor="@color/colorGrayDark"
+                                android:textSize="@dimen/textViewTextSizeSmall"
+                                android:textStyle="italic" />
+
+                        </LinearLayout>
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/textViewMarginSmall"
+                            android:gravity="center_horizontal"
+                            android:orientation="horizontal">
+
+                            <CheckBox
+                                android:id="@+id/checkSixtyPercent"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginRight="@dimen/textViewMarginNormal"
+                                android:layout_marginTop="@dimen/textViewMarginNormal"
+                                android:button="@drawable/button_checkbox"
+                                android:paddingLeft="@dimen/textViewMarginSmall"
+                                android:text="60 %"
+                                android:textColor="@color/colorGrayDark"
+                                android:textSize="@dimen/textViewTextSizeSmall"
+                                android:textStyle="italic" />
+
+                            <CheckBox
+                                android:id="@+id/checkSeventyPercent"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginRight="@dimen/textViewMarginNormal"
+                                android:layout_marginTop="@dimen/textViewMarginNormal"
+                                android:button="@drawable/button_checkbox"
+                                android:paddingLeft="@dimen/textViewMarginSmall"
+                                android:text="70 %"
+                                android:textColor="@color/colorGrayDark"
+                                android:textSize="@dimen/textViewTextSizeSmall"
+                                android:textStyle="italic" />
+
+                            <CheckBox
+                                android:id="@+id/checkEightyPercent"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginRight="@dimen/textViewMarginNormal"
+                                android:layout_marginTop="@dimen/textViewMarginNormal"
+                                android:button="@drawable/button_checkbox"
+                                android:paddingLeft="@dimen/textViewMarginSmall"
+                                android:text="80 %"
+                                android:textColor="@color/colorGrayDark"
+                                android:textSize="@dimen/textViewTextSizeSmall"
+                                android:textStyle="italic" />
+
+                            <CheckBox
+                                android:id="@+id/checkNintyPercent"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/textViewMarginNormal"
+                                android:button="@drawable/button_checkbox"
+                                android:paddingLeft="@dimen/textViewMarginSmall"
+                                android:text="90 %"
+                                android:textColor="@color/colorGrayDark"
+                                android:textSize="@dimen/textViewTextSizeSmall"
+                                android:textStyle="italic" />
+                        </LinearLayout>
+
+                        <Button
+                            android:id="@+id/btnSaveChanges"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_above="@+id/bannerLayout"
+                            android:layout_centerHorizontal="true"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginTop="@dimen/buttonTopMarginNormal"
+                            android:background="@drawable/button_blue"
+                            android:paddingLeft="@dimen/buttonPaddingNormal"
+                            android:paddingRight="@dimen/buttonPaddingNormal"
+                            android:text="Save Changes"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/buttonTextSizeNormal" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/layoutMarginNormal"
+                    android:background="@android:color/white"
+                    android:orientation="vertical"
+                    android:padding="@dimen/layoutPaddingNormal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Battery Info:"
+                        android:textColor="@color/colorGrayDark"
+                        android:textSize="@dimen/textViewTextSizeNormal"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:id="@+id/tvBatteryLevel"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/textViewMarginSmall"
+                            android:lineSpacingExtra="@dimen/textViewMarginSmall"
+                            android:text="Battery Information"
+                            android:textColor="@color/colorGrayDark"
+                            android:textSize="@dimen/textViewTextSizeSmall" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <com.google.android.gms.ads.NativeExpressAdView
+                    android:id="@+id/adViewNativeMainScreen"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:visibility="gone"
+                    ads:adSize="320x300"
+                    ads:adUnitId="@string/native_ad_id"></com.google.android.gms.ads.NativeExpressAdView>
+
+                <Button
+                    android:id="@+id/btnActivteDeactivate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/bannerLayout"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="@dimen/buttonTopMarginNormal"
+                    android:layout_marginTop="@dimen/buttonTopMarginNormal"
+                    android:background="@drawable/button_blue"
+                    android:paddingLeft="@dimen/buttonPaddingNormal"
+                    android:paddingRight="@dimen/buttonPaddingNormal"
+                    android:text="DEACTIVATE"
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/buttonTextSizeNormal" />
+
+            </LinearLayout>
+        </ScrollView>
+
+
+        <LinearLayout
+            android:id="@+id/bannerLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"></LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,146 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="bottomBarHeight">60dp</dimen>
+    <dimen name="subHeadingHeight">40dp</dimen>
+    <dimen name="mainMenuListItemHeight">70dp</dimen>
+    <dimen name="splashLogoLengthWidth">250dp</dimen>
+    <dimen name="loginLogoWidth">220dp</dimen>
+    <dimen name="loginLogoHeight">140dp</dimen>
+
+    <dimen name="cornerRadiusXSmall">2dp</dimen>
+    <dimen name="cornerRadiusSmall">3dp</dimen>
+    <dimen name="cornerRadiusNormal">4dp</dimen>
+    <dimen name="cornerRadiusMedium">6dp</dimen>
+    <dimen name="cornerRadiusLarge">7dp</dimen>
+
+    <dimen name="card_elevation_normal">3dp</dimen>
+
+    <dimen name="activitySideMarginSmall">10dp</dimen>
+    <dimen name="activitySideMarginNormal">15dp</dimen>
+    <dimen name="activitySideMarginLarge">20dp</dimen>
+
+    <dimen name="categoryTitleMargin">110dp</dimen>
+
+    <dimen name="layoutMarginXSmall">5dp</dimen>
+    <dimen name="layoutMarginSmall">10dp</dimen>
+    <dimen name="layoutMarginNormal">15dp</dimen>
+    <dimen name="layoutMarginLarge">20dp</dimen>
+    <dimen name="layoutMarginXLarge">30dp</dimen>
+    <dimen name="layoutMarginXXLarge">40dp</dimen>
+    <dimen name="layoutMarginXXXXLarge">60dp</dimen>
+
+    <dimen name="layoutPaddingXXSmall">4dp</dimen>
+    <dimen name="layoutPaddingSmall">10dp</dimen>
+    <dimen name="layoutPaddingNormal">15dp</dimen>
+    <dimen name="layoutPaddingLarge">20dp</dimen>
+    <dimen name="layoutPaddingXLarge">25dp</dimen>
+    <dimen name="layoutPaddingXXLarge">30dp</dimen>
+
+    <dimen name="buttonPaddingSmall">5dp</dimen>
+    <dimen name="buttonPaddingNormal">10dp</dimen>
+    <dimen name="buttonPaddingLarge">15dp</dimen>
+
+    <dimen name="buttonTextSizeSmall">17dp</dimen>
+    <dimen name="buttonTextSizeMedium">18dp</dimen>
+    <dimen name="buttonTextSizeNormal">19dp</dimen>
+
+    <dimen name="buttonSideMarginSmall">5dp</dimen>
+    <dimen name="buttonSideMarginNormal">10dp</dimen>
+    <dimen name="buttonSideMarginLarge">15dp</dimen>
+    <dimen name="buttonSideMarginXLarge">20dp</dimen>
+    <dimen name="buttonTopMarginSmall">10dp</dimen>
+    <dimen name="buttonTopMarginNormal">20dp</dimen>
+    <dimen name="buttonTopMarginLarge">30dp</dimen>
+    <dimen name="buttonTopMarginXLarge">60dp</dimen>
+    <dimen name="buttonTopMargin">30dp</dimen>
+    <dimen name="buttonBottomMarginSmall">10dp</dimen>
+    <dimen name="buttonBottomMarginNormal">20dp</dimen>
+    <dimen name="buttonInnerMarginNormal">5dp</dimen>
+    <dimen name="buttonLoginHeight">50dp</dimen>
+    <dimen name="buttonHeightNormal">40dp</dimen>
+    <dimen name="buttonWidthNormal">130dp</dimen>
+
+    <dimen name="textViewTextSizeExtraSmall">10dp</dimen>
+    <dimen name="textViewTextSizeXSmall">12dp</dimen>
+    <dimen name="textViewTextSizeSmall">14dp</dimen>
+    <dimen name="textViewTextSizeNormal">16dp</dimen>
+    <dimen name="textViewTextSizeMedium">18dp</dimen>
+    <dimen name="textViewTextSizeLarge">20dp</dimen>
+    <dimen name="textViewTextSizeXLarge">22dp</dimen>
+    <dimen name="textViewTextSizeXXLarge">24dp</dimen>
+    <dimen name="textViewTextSizeXXXLarge">28dp</dimen>
+    <dimen name="textViewTextSizeXXXXLarge">32dp</dimen>
+
+    <dimen name="textViewFieldMargin">4dp</dimen>
+    <dimen name="textViewMarginSmall">5dp</dimen>
+    <dimen name="textViewMarginNormal">10dp</dimen>
+    <dimen name="textViewMarginLarge">15dp</dimen>
+    <dimen name="textViewMarginXLarge">20dp</dimen>
+    <dimen name="textViewMarginXXLarge">25dp</dimen>
+    <dimen name="textViewMarginXXXLarge">30dp</dimen>
+    <dimen name="textViewTextSizeCardNo">24dp</dimen>
+
+    <dimen name="dialogSideMargin">20dp</dimen>
+
+    <dimen name="dialogPaddingNormal">10dp</dimen>
+    <dimen name="dialogPaddingMedium">15dp</dimen>
+    <dimen name="dialogPaddingLarge">18dp</dimen>
+    <dimen name="dialogPaddingXLarge">30dp</dimen>
+
+    <dimen name="dialogHeaderHeightNormal">50dp</dimen>
+    <dimen name="dialogScrollHeightNormal">120dp</dimen>
+    <dimen name="dialogScrollHeightLarge">140dp</dimen>
+    <dimen name="dialogButtonWidth">150dp</dimen>
+
+    <dimen name="editTextFieldPaddingNormal">10dp</dimen>
+    <dimen name="editTextFieldPaddingLarge">15dp</dimen>
+
+    <dimen name="rounded_bg_corner">5dip</dimen>
+    <dimen name="rounded_bg_card">20dip</dimen>
+    <dimen name="editTextFieldVertical">10dp</dimen>
+
+    <dimen name="buttonVertical">12dp</dimen>
+    <dimen name="loginHeaderTopPadding">20dp</dimen>
+    <dimen name="layoutSideMargin">10dp</dimen>
+    <dimen name="buttonSideMargin">10dp</dimen>
+    <dimen name="dialogMpinHeight">260dp</dimen>
+    <dimen name="dialogLargeHeight">420dp</dimen>
+    <dimen name="dialogLargeTextHeight">280dp</dimen>
+    <dimen name="dialogLocatorHeight">260dp</dimen>
+    <dimen name="dialogBranchLocatorHeight">150px</dimen>
+    <dimen name="dialogGeneratePinHeight">260dp</dimen>
+    <dimen name="dialogScViewHeight">120dp</dimen>
+    <dimen name="dialogFpinHeight">340dp</dimen>
+    <dimen name="buttonHeightSmall">40dp</dimen>
+    <dimen name="editTextFieldPadding">10dp</dimen>
+    <dimen name="fieldMargin">10dp</dimen>
+    <dimen name="screenBottomMergin">30dp</dimen>
+    <dimen name="editTextFieldVerticalStart">23dp</dimen>
+    <dimen name="spinnerLength">40dp</dimen>
+
+    <dimen name="paddingVerticalNormal">85dp</dimen>
+    <dimen name="paddingVerticalLarge">125dp</dimen>
+    <dimen name="marginVisaLogo">6dp</dimen>
+    <dimen name="paddingTopCardNo">20dp</dimen>
+    <dimen name="marginDateLarge">130dp</dimen>
+    <dimen name="marginDateNormal">85dp</dimen>
+    <dimen name="marginLeftDeditcard">20dp</dimen>
+
+    <dimen name="scrollViewMerginLeftRight">18dp</dimen>
+    <dimen name="listItemHeight">50dp</dimen>
+    <dimen name="listItemMarginLeft">50dp</dimen>
+    <dimen name="listItemTextWidth">150dp</dimen>
+    <dimen name="btnSelectorTopMargin">10dp</dimen>
+    <dimen name="datePickerWidth">160dp</dimen>
+    <dimen name="datePickerHeight">60dp</dimen>
+    <dimen name="lblAndHeight">44dp</dimen>
+    <dimen name="cardHeight">220dp</dimen>
+    <dimen name="cardTitlePadding">120dp</dimen>
+    <dimen name="menuIconPadding">0dp</dimen>
+    <dimen name="bannerHeight">175px</dimen>
+    <dimen name="faqPadding">10px</dimen>
+    <dimen name="faqMarginRight">30px</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

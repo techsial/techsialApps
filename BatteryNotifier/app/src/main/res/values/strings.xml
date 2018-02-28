@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Battery Level Alerts</string>
+
+    <string name="app_id_admob">ca-app-pub-4701981589622742~4435301910</string>
+    <string name="interstitial_id_main_screen">ca-app-pub-4701981589622742/5912035114</string>
+    <string name="native_ad_id">ca-app-pub-4701981589622742/6117088231</string>
+
+    <string name="help">Help</string>
+    <string name="share_invite">Share/invite Someone</string>
+    <string name="time_zone_converter">Time Zone Converter</string>
+    <string name="time_watcher">Time Watcher</string>
+    <string name="video_editor_tools">Video Editor Tools</string>
+    <string name="sms_scheduler">SMS Scheduler</string>
+    <string name="view_more">View More</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="invitation_message">"Try the Battery Level Alerts app, either to get battery related info or audio/status bar notifications against your battery level!"</string>
+    <string name="about_no_email">"There is no email client installed."</string>
+
+</resources>
